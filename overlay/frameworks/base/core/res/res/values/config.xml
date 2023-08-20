@@ -655,8 +655,8 @@
     <!-- Screen brightness used to dim the screen while dozing in a very low power state.
          May be less than the minimum allowed brightness setting
          that can be set by the user. -->
-    <integer name="config_screenBrightnessDoze">15</integer>
-    <item name="config_screenBrightnessDozeFloat" format="float" type="dimen">0.00366300366</item>
+    <integer name="config_screenBrightnessDoze">9</integer>
+    <item name="config_screenBrightnessDozeFloat" format="float" type="dimen">0.0352941176</item>
     
     <!-- Screen brightness used to dim the screen when the user activity
          timeout expires.  May be less than the minimum allowed brightness setting
